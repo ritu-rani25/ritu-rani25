@@ -21,9 +21,8 @@ I'am Ritu </b></h3>
 ###
 <h3>What I'm Doing:<h3>
   
-  🌱 Currently learning <b>Django</b> and NodeJS</li> <br>
-  👯 Building a <b>Deepfake-Identification-Project</b> in Python</li><br>
-  💬 Ask me about <b> Frontend systems, C, Java, Python</b></li><br>
+  🌱 Currently learning <b>Django</b> and NodeJS <br>
+  💬 Ask me about <b> Frontend systems, C, Java, Python</b><br>
   📫 Reach me at <b>rritu1967@gmail.com
 
 ## <h3>🌐 Socials:<h3>
